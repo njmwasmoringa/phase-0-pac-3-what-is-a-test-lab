@@ -815,7 +815,7 @@ mocha-jsdom@~1.1.0:
   resolved "https://registry.yarnpkg.com/mocha-jsdom/-/mocha-jsdom-1.1.0.tgz#e1576fbd0601cc89d358a213a0e5585d1b7c7a01"
   integrity sha1-4VdvvQYBzInTWKIToOVYXRt8egE=
 
-mocha-multi@^1.1.3:
+mocha-multi@^1.1.6:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/mocha-multi/-/mocha-multi-1.1.6.tgz#f9386098038b75eabf53e40061f420ddad89c3b2"
   integrity sha512-hMVmd9C1h4PEiFNwHxn8aa5/EgGLg0UswdOrlrq1Y8ieKmot8hZLYaiESIgg/He3E4oxwaXPWT1V1PJ0qNJlUQ==
